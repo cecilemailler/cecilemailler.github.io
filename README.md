@@ -50,7 +50,7 @@
 
 
 <div id="tof">
-<a  id="piclink" href="images/new_photo.jpg"><img id="photo" src="new_photo.jpg" alt="[Photo]" /></a></br>
+<a  id="piclink" href="new_photo.jpg"><img id="photo" src="new_photo.jpg" alt="[Photo]" /></a></br>
 <font size="1">Photo credit: Gabriel Gilson (University of Bath)</font>
 </div>
 </div>
@@ -102,8 +102,8 @@
   </ul>
   </p>
 
-  <p>I have been serving as an Associate Editor of the <a href="http://www.appliedprobability.org/index.aspx?Group=home&Page=home">Applied Probability Trust</a> (since October 2020),
-and of <a href="https://www.journals.elsevier.com/stochastic-processes-and-their-applications">Stochastic Processes and Their Applications</a> (since March 2022).
+  <p>I have been serving as an Associate Editor of <a href="https://www.journals.elsevier.com/stochastic-processes-and-their-applications">Stochastic Processes and Their Applications</a> (since March 2022).
+    I served as an Associate Editor of the of the <a href="http://www.appliedprobability.org/index.aspx?Group=home&Page=home">Applied Probability Trust</a> from October 2020 until June 2025. 
   </p>
 
   I wrote a general introduction to P&oacute;lya urns for the
